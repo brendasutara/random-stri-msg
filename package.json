@@ -1,0 +1,16 @@
+{
+  "name": "random-stri-msg-bs",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brenda Sutara <sutarabrenda@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-bs": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
